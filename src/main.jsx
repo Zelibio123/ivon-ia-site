@@ -1,0 +1,1 @@
+// Componente ou lógica do sistema IVON IA
